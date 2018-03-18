@@ -115,3 +115,5 @@ k. Run application:
 ```bash
 python manage.py runserver
 ```
+
+l. Check the [doc](http://www.django-rest-framework.org/tutorial/quickstart/)
