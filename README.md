@@ -110,3 +110,8 @@ urlpatterns = [
 ]
 
 ```
+
+k. Run application:
+```bash
+python manage.py runserver
+```
