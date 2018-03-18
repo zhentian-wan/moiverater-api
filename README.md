@@ -34,6 +34,7 @@ django-admin.py startproject moiverater .
 cd moiverater
 django-admin.py startapp api
 cd ..
+python manage.py migrate
 ```
 
 g. `moiverater/api/serializers.py`:
